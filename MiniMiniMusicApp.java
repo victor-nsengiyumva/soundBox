@@ -2,10 +2,10 @@ import javax.sound.midi.*;
 import static javax.sound.midi.ShortMessage.*;
 
 public class MiniMiniMusicApp{
-    public static void main(String[] args) {
-        MiniMiniMusicApp mini = new MiniMiniMusicApp();
-        mini.play();
-    }
+    // public static void main(String[] args) {
+    //     MiniMiniMusicApp mini = new MiniMiniMusicApp();
+    //     mini.play();
+    // }
 
     public void play(){
         try
