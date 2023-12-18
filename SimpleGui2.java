@@ -1,6 +1,5 @@
 
 import java.awt.event.*;
-
 import javax.swing.*;
 
 public class SimpleGui2 implements ActionListener {
